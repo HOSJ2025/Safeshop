@@ -1,0 +1,2 @@
+# Safeshop
+Unbiased shopping assistant
